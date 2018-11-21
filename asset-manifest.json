@@ -1,0 +1,15 @@
+{
+  "main.css": "/tripsapp/static/css/main.81738f9a.chunk.css",
+  "main.js": "/tripsapp/static/js/main.cd7a25ab.chunk.js",
+  "main.js.map": "/tripsapp/static/js/main.cd7a25ab.chunk.js.map",
+  "static/css/1.9a9b3b14.chunk.css": "/tripsapp/static/css/1.9a9b3b14.chunk.css",
+  "static/js/1.48bd4d75.chunk.js": "/tripsapp/static/js/1.48bd4d75.chunk.js",
+  "static/js/1.48bd4d75.chunk.js.map": "/tripsapp/static/js/1.48bd4d75.chunk.js.map",
+  "runtime~main.js": "/tripsapp/static/js/runtime~main.1d532d5a.js",
+  "runtime~main.js.map": "/tripsapp/static/js/runtime~main.1d532d5a.js.map",
+  "static/css/main.81738f9a.chunk.css.map": "/tripsapp/static/css/main.81738f9a.chunk.css.map",
+  "static/css/1.9a9b3b14.chunk.css.map": "/tripsapp/static/css/1.9a9b3b14.chunk.css.map",
+  "index.html": "/tripsapp/index.html",
+  "precache-manifest.bb43887f6c3cd06a0db73e4ead99cb0d.js": "/tripsapp/precache-manifest.bb43887f6c3cd06a0db73e4ead99cb0d.js",
+  "service-worker.js": "/tripsapp/service-worker.js"
+}
