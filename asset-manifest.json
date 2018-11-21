@@ -1,15 +1,15 @@
 {
-  "main.css": "/tripsapp/static/css/main.81738f9a.chunk.css",
-  "main.js": "/tripsapp/static/js/main.cd7a25ab.chunk.js",
-  "main.js.map": "/tripsapp/static/js/main.cd7a25ab.chunk.js.map",
-  "static/css/1.9a9b3b14.chunk.css": "/tripsapp/static/css/1.9a9b3b14.chunk.css",
-  "static/js/1.48bd4d75.chunk.js": "/tripsapp/static/js/1.48bd4d75.chunk.js",
-  "static/js/1.48bd4d75.chunk.js.map": "/tripsapp/static/js/1.48bd4d75.chunk.js.map",
-  "runtime~main.js": "/tripsapp/static/js/runtime~main.1d532d5a.js",
-  "runtime~main.js.map": "/tripsapp/static/js/runtime~main.1d532d5a.js.map",
-  "static/css/main.81738f9a.chunk.css.map": "/tripsapp/static/css/main.81738f9a.chunk.css.map",
-  "static/css/1.9a9b3b14.chunk.css.map": "/tripsapp/static/css/1.9a9b3b14.chunk.css.map",
-  "index.html": "/tripsapp/index.html",
-  "precache-manifest.bb43887f6c3cd06a0db73e4ead99cb0d.js": "/tripsapp/precache-manifest.bb43887f6c3cd06a0db73e4ead99cb0d.js",
-  "service-worker.js": "/tripsapp/service-worker.js"
+  "main.css": "/tripsapp-frontend/static/css/main.81738f9a.chunk.css",
+  "main.js": "/tripsapp-frontend/static/js/main.efba9e98.chunk.js",
+  "main.js.map": "/tripsapp-frontend/static/js/main.efba9e98.chunk.js.map",
+  "static/css/1.9a9b3b14.chunk.css": "/tripsapp-frontend/static/css/1.9a9b3b14.chunk.css",
+  "static/js/1.48bd4d75.chunk.js": "/tripsapp-frontend/static/js/1.48bd4d75.chunk.js",
+  "static/js/1.48bd4d75.chunk.js.map": "/tripsapp-frontend/static/js/1.48bd4d75.chunk.js.map",
+  "runtime~main.js": "/tripsapp-frontend/static/js/runtime~main.5e0e4104.js",
+  "runtime~main.js.map": "/tripsapp-frontend/static/js/runtime~main.5e0e4104.js.map",
+  "static/css/1.9a9b3b14.chunk.css.map": "/tripsapp-frontend/static/css/1.9a9b3b14.chunk.css.map",
+  "static/css/main.81738f9a.chunk.css.map": "/tripsapp-frontend/static/css/main.81738f9a.chunk.css.map",
+  "index.html": "/tripsapp-frontend/index.html",
+  "precache-manifest.7fcbf01829381c50fec8161c2a566245.js": "/tripsapp-frontend/precache-manifest.7fcbf01829381c50fec8161c2a566245.js",
+  "service-worker.js": "/tripsapp-frontend/service-worker.js"
 }
