@@ -1,0 +1,20 @@
+.react-bootstrap-table-pagination-list {
+  text-align: center;
+  transform: translateX(-50%);
+}
+
+.react-bootstrap-table-page-btns-ul {
+  float: none;
+}
+
+caption {
+  caption-side: top;
+}
+
+.captionElement {
+  text-align: "center";
+  color: "purple";
+  border-width: "3px 0px 3px 0px";
+  border-style: "solid";
+  padding: "0.5em";
+}
